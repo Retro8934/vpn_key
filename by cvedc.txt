@@ -1,1 +1,0 @@
-vless://info@0.0.0.0:443?security=auto&encryption=none&headerType=none&type=tcp#Извините этот конфиг не работает вообще
